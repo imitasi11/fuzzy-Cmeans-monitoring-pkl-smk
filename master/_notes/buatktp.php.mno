@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kk" value="name:no_kk;datatype:int,name:nama;datatype:blob,name:alamat;datatype:blob" />
+	<infoitem key="UD_anggota" value="name:nik;datatype:int,name:nama_lengkap;datatype:blob,name:status;datatype:blob" />
+</info>

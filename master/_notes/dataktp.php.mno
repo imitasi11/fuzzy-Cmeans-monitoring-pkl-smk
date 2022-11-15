@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dataKTP" value="name:nik;datatype:int,name:tanggal_pendaftaran;datatype:date,name:masa_berlaku;datatype:date" />
+</info>

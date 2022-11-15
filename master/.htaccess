@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteRule ^$ index.php [L]
+
+RewriteRule ^fuzzy$ fuzzy.php [L]
+RewriteRule ^chart$ chart.php [L]

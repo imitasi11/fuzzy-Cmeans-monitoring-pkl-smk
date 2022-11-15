@@ -1,0 +1,186 @@
+BODY
+{
+	background-image: url(images/ig1.jpg);
+	background-position: 0% 0%;
+}
+#header
+{
+	HEIGHT: 200px;
+	WIDTH: 960px;
+	background-image: url(images/log1.jpg);
+}
+#wadah
+{
+    HEIGHT: auto;
+    WIDTH: 980px;
+    BACKGROUND: none transparent scroll repeat 0% 0%;
+    PADDING-BOTTOM: 20px;
+    PADDING-TOP: 20px;
+    PADDING-LEFT: 20px;
+    MARGIN: auto;
+    PADDING-RIGHT: 20px;
+    -moz-border-radius-topleft: 15px;
+    border-top-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    border-top-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-bottom-right-radius: 15px
+}
+nav
+{
+    OVERFLOW: auto;
+    FONT-SIZE: 20px;
+    BORDER-TOP: #aaaaaa 1px solid;
+    BORDER-RIGHT: #aaaaaa 1px solid;
+    WIDTH: 935px;
+    BACKGROUND: url(images/wadah1.jpg);
+    BORDER-BOTTOM: #aaaaaa 1px solid;
+    FLOAT: left;
+    PADDING-BOTTOM: 10px;
+    PADDING-TOP: 10px;
+    PADDING-LEFT: 10px;
+    MARGIN: 10px auto;
+    BORDER-LEFT: #aaaaaa 1px solid;
+    Z-INDEX: 2;
+    PADDING-RIGHT: 10px;
+    -moz-border-radius-topleft: 15px;
+    border-top-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    border-top-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-bottom-right-radius: 15px
+}
+nav UL
+{
+    LIST-STYLE-TYPE: none;
+    OVERFLOW: auto;
+    FLOAT: left;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    Z-INDEX: 2;
+    PADDING-RIGHT: 0px
+}
+nav UL LI
+{
+    BORDER-RIGHT: #aaaaaa 1px solid;
+    FLOAT: left;
+    PADDING-BOTTOM: 5px;
+    PADDING-TOP: 5px;
+    PADDING-LEFT: 10px;
+    MARGIN: 0px;
+    DISPLAY: block;
+    PADDING-RIGHT: 10px
+}
+nav UL LI .submenu
+{
+    BORDER-TOP: #aaaaaa 1px solid;
+    BORDER-RIGHT: #aaaaaa 1px solid;
+    BORDER-BOTTOM: #aaaaaa 1px solid;
+    BORDER-LEFT: #aaaaaa 1px solid;
+    DISPLAY: none
+}
+nav UL LI:hover .submenu
+{
+    BORDER-TOP: #aaaaaa 1px solid;
+    BORDER-RIGHT: #aaaaaa 1px solid;
+    WIDTH: 150px;
+    BACKGROUND: #ffffff;
+    BORDER-BOTTOM: #aaaaaa 1px solid;
+    POSITION: absolute;
+    FLOAT: left;
+    MARGIN: 5px 0px 0px -11px;
+    BORDER-LEFT: #aaaaaa 1px solid;
+    DISPLAY: block
+}
+nav UL LI:hover .submenu LI
+{
+    BORDER-TOP: medium none;
+    BORDER-RIGHT: medium none;
+    WIDTH: 89px;
+    BORDER-BOTTOM: medium none;
+    FLOAT: left;
+    PADDING-BOTTOM: 5px;
+    PADDING-TOP: 5px;
+    PADDING-LEFT: 5px;
+    BORDER-LEFT: medium none;
+    DISPLAY: block;
+    PADDING-RIGHT: 5px
+}
+nav UL LI:hover
+{
+}
+nav UL LI A
+{
+    TEXT-DECORATION: none;
+    COLOR: #000000
+}
+nav UL LI A:hover
+{
+    COLOR: #0000ff
+}
+#content
+{
+    HEIGHT: auto;
+    WIDTH: 680px;
+    BACKGROUND: url(images/wadah1.jpg);
+    FLOAT: left;
+    PADDING-BOTTOM: 10px;
+    PADDING-TOP: 10px;
+    PADDING-LEFT: 10px;
+    MARGIN: 10px;
+    PADDING-RIGHT: 10px;
+    -moz-border-radius-topleft: 15px;
+    border-top-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    border-top-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-bottom-right-radius: 15px
+}
+#sidebar
+{
+    HEIGHT: auto;
+    WIDTH: 220px;
+    BACKGROUND: url(images/wadah1.jpg);
+    FLOAT: right;
+    PADDING-BOTTOM: 10px;
+    PADDING-TOP: 10px;
+    PADDING-LEFT: 10px;
+    MARGIN: 10px 20px 10px auto;
+    PADDING-RIGHT: 10px;
+    -moz-border-radius-topleft: 15px;
+    border-top-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    border-top-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-bottom-right-radius: 15px
+}
+#footer
+{
+    HEIGHT: 70px;
+    WIDTH: 930px;
+    BACKGROUND: url(images/background.jpg);
+    FLOAT: left;
+    PADDING-BOTTOM: 10px;
+    PADDING-TOP: 10px;
+    PADDING-LEFT: 10px;
+    MARGIN: 0px 10px 10px;
+    PADDING-RIGHT: 10px;
+    -moz-border-radius-topleft: 15px;
+    border-top-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    border-top-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-bottom-right-radius: 15px
+}

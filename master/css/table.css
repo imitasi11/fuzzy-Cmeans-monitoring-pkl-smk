@@ -1,0 +1,26 @@
+/* CSS Document */
+
+.table {
+  border-collapse : collapse;
+}
+.tableth {
+  background-color : #2E6AB1;
+  padding-left     : 10px;
+  padding-right    : 8px;
+  padding-top      : 3px;
+  padding-bottom   : 3px;
+  border           : 1px solid #969BA5;  
+  text-align       : left;
+  color            : #FFFFFF;
+  font-size        : 13;
+}
+.tabletd {
+  background-color : #F0F0F0;
+  padding-left     : 8px;
+  padding-right    : 8px;
+  padding-top      : 3px;
+  padding-bottom   : 3px;
+  border           : 1px solid #969BA5;
+  color            : #2E6AB1;
+  font-size        : 13;
+}
