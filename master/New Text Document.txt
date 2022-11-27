@@ -1,0 +1,3 @@
+cek echo
+cek from databases
+cek ajax 

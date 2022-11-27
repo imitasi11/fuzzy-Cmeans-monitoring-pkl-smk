@@ -173,11 +173,12 @@ $("#contact input[type='submit'], #sidebar-right #submittedWidget, .filter a, .p
 	
 <div id="header">
 
-<div class="inner">	
-	<div id="title_box">
+<div style="max-width:cover;">	
+	<div id="title_box" style="max-width:500px;">
 		
 	    <a href="https://smkn2solo.sch.id/">
 		    		    <img src="./SMK Negeri 2 Surakarta_files/logo-Web-SMKN-2-Surakarta2.png" alt="Logo" id="logo" style="opacity: 1;">
+						<h1 style="color:#1aaad9;text-transform:Capitalize;font-size:35px;"><b>SPK Pengelompokan aktifitas prakerin</b></h1>
 	    </a>
 	  
 	 	
@@ -198,7 +199,8 @@ $("#contact input[type='submit'], #sidebar-right #submittedWidget, .filter a, .p
 <ul class="sub-menu" style="display: none; top: 45px; visibility: visible;">
 </ul>
 </li>
-</ul><select><option selected="selected" value="">Go to...</option><option value="index.php">Beranda</option><option value="penulis.php">Tentang Penulis</option><option value="fuzzy.php">Proses Fuzzy</option><option value="perhitungan.php">Monitoring C-Means</option></select></div></div>
+</ul>
+</div></div>
 
 <div class="clear"></div>
 

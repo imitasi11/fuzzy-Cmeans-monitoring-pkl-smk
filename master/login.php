@@ -243,15 +243,15 @@ $("#contact input[type='submit'], #sidebar-right #submittedWidget, .filter a, .p
 <div class="clear"></div> 
   
 <div id="header">
-
-<div class="inner"> 
-  <div id="title_box">
-    
-      <a href="https://smkn2solo.sch.id/">
-                <img src="./SMK Negeri 2 Surakarta_files/logo-Web-SMKN-2-Surakarta2.png" alt="Logo" id="logo" style="opacity: 1;">
-      </a>
-    
-    
+<div style="max-width:cover;">	
+	<div id="title_box" style="max-width:500px;">
+		
+	    <a href="https://smkn2solo.sch.id/">
+		    		    <img src="./SMK Negeri 2 Surakarta_files/logo-Web-SMKN-2-Surakarta2.png" alt="Logo" id="logo" style="opacity: 1;">
+						<h1 style="color:#1aaad9;text-transform:Capitalize;font-size:35px;"><b>SPK Pengelompokan aktifitas prakerin</b></h1>
+	    </a>
+	  
+	 	
     </div>
 
       
@@ -267,7 +267,7 @@ $("#contact input[type='submit'], #sidebar-right #submittedWidget, .filter a, .p
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-			<h2 class="title"><a href="#">Form Login</a></h2>
+			<h2 class="title" style="padding:13px;"><a href="#">Form Login</a></h2>
             <hr />
 			<div style="clear: both;">&nbsp;</div>
 	  </div>

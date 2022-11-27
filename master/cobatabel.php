@@ -1,4 +1,4 @@
-﻿<?php include "admin_header.php"?>
+<?php include "admin_header.php"?>
 <script src="https://kit.fontawesome.com/3c29de4c0a.js" crossorigin="anonymous"></script>
 <style type="text/css">
 	#content{
@@ -215,7 +215,7 @@ for ($i=1; $i <=count($random_uik) ; $i++) {
           <td>NIM</td>
           <td>Nama</td>
           <td>Absensi</td>
-          <td colspan="2">Tugas</td>
+          <td>Tugas</td>
         </tr>
           <?php 
         for ($i=1; $i <=count($data_siswa) ; $i++) { 
@@ -575,5 +575,3 @@ function sortTableN() {
   }
 }
 </script>
-
-<?php include "admin_footer.php"?>

@@ -212,12 +212,12 @@ $("#contact input[type='submit'], #sidebar-right #submittedWidget, .filter a, .p
 <div class="clear"></div>	
 	
 <div id="header">
-
-<div class="inner">	
-	<div id="title_box">
+<div style="max-width:cover;">	
+	<div id="title_box" style="max-width:500px;">
 		
 	    <a href="https://smkn2solo.sch.id/">
 		    		    <img src="./SMK Negeri 2 Surakarta_files/logo-Web-SMKN-2-Surakarta2.png" alt="Logo" id="logo" style="opacity: 1;">
+						<h1 style="color:#1aaad9;text-transform:Capitalize;font-size:35px;"><b>SPK Pengelompokan aktifitas prakerin</b></h1>
 	    </a>
 	  
 	 	
@@ -235,18 +235,18 @@ $("#contact input[type='submit'], #sidebar-right #submittedWidget, .filter a, .p
 <li id="menu-item-1248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1248" style="z-index: 100;"><a href="">Data Siswa</a>
 <ul class="sub-menu" style="display: none; top: 45px; visibility: visible;">
 	<li id="menu-item-1348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1348"><a href="siswa.php">Tambah Data Siswa</a></li>
-	<li id="menu-item-1247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1247"><a href="dsiswa.php">View Data Siswa</a></li>
+	<li id="menu-item-1247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1247"><a href="dsiswa.php">Lihat Nilai Data Siswa</a></li>
 </ul>
 </li>
 <li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1301" style="z-index: 99;"><a href="">Data Kriteria</a>
 <ul class="sub-menu" style="display: none; top: 45px; visibility: visible;">
-	<li id="menu-item-1310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1310"><a href="kriteria.php">Tambah Data Kriteria</a></li>
-	<li id="menu-item-1309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1309"><a href="dkriteria.php">View Data Kriteria</a></li>
+	<li id="menu-item-1310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1310"><a href="kriteria.php">Tambah Nilai siswa</a></li>
+	<li id="menu-item-1309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1309"><a href="dkriteria.php">Lihat Nilai siswa</a></li>
 </ul>
 </li>
 <li id="menu-item-3238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3238" style="z-index: 97;"><a href="">Proses Monitoring</a>
 <ul class="sub-menu" style="display: none; top: 45px; visibility: visible;">
-	<li id="menu-item-3239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3239"><a href="perhitungan.php">View Proses C-Means</a></li>
+	<li id="menu-item-3239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3239"><a href="perhitungan.php">Lihat Proses C-Means</a></li>
 </ul>
 </li>
 <li id="menu-item-1340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1301" style="z-index: 99;"><a href="">Laporan Data</a>
